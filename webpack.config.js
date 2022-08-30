@@ -16,7 +16,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'bare-bones',
+      title: 'powerPlant',
       template: './src/index.html',
       inject: 'body'
     }),

@@ -1,5 +1,5 @@
 
-# _{Application Name}_
+# _{Power Plant}_
 
 #### By _**{List of contributors}**_
 
